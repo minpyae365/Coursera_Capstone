@@ -1,4 +1,4 @@
 # Coursera_Capstone
 Coursera X IBM Applied Data Science Capstone 
 
-all that is here are for myself to review the materials from the course
+To get an understanding about the project, please do read the " " pdf file on my presentation breif about the project.

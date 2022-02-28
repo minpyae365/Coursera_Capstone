@@ -3,7 +3,7 @@ Coursera X IBM Applied Data Science Capstone
 
 -To get a basic understanding about the project, please do read the "DS capstone_Presentation.pdf" file on my presentation breif about the project.
 
--For further explaination, please read on the docxs files on "DS capstone_Report.docx" and "DS capstone_Description.docx"
+-For further explaination, please read the word files on "DS capstone_Report.docx" and "DS capstone_Description.docx"
 
 -Battle of Neighborhood.ipynb is my jupyter notebook on how i execute the project.
 
